@@ -13,7 +13,7 @@ class AreaOfCircle
 		System.out.println("Enter Redius of circle");
 		float r = sc.nextFloat();
 
-		float A=3.14f*r*r;
+		float A=2*r*r;
 
 		System.out.println("Area of circle = "+A);
 	}
